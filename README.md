@@ -1,0 +1,1 @@
+This is a console Rock/Paper/Scissors game created as part of my completion of The Odin Project curriculum.
